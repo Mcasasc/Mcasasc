@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Marcia Casas</h1>
 
-<!--
-**Mcasasc/Mcasasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📊 Analista de Datos en formación | 🎓 Estudiante de Ingeniería de Sistemas</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🎓 Actualmente curso el *noveno ciclo de Ingeniería de Sistemas*.  
+- 💻 Apasionada por el *análisis de datos* con experiencia en proyectos con **SQL, Python, Excel y Power BI**
+- 🗄️ Conocimientos en *modelado de bases de datos relacionales* y procesos de *ETL y limpieza de datos*.  
+- 🌐 Familiarizada con *tecnologías modernas* como **TypeScript, React, Python**.  
+- ✨ Siempre buscando mejorar y aportar soluciones que generen valor.  
+
+---
+
+### 🛠️ Tecnologías y herramientas
+- **Lenguajes:** Python, TypeScript  
+- **Bases de datos:** MySQL, SQL Server  
+- **Análisis de datos:** Excel, Power BI, SQL  
+- **Procesos de datos:** ETL, limpieza y transformación de datos  
+
+---
+
+### 🌱 Actualmente
+- Aprendiendo y practicando *análisis de datos y visualización en Power BI*.  
+- Trabajando en proyectos académicos y personales orientados a *sistemas de información y análisis de datos*. - 
+---
+
+### 🎯 Intereses
+- 📚 Seguir fortaleciendo mis habilidades en *inteligencia de negocios y análisis de datos*.  
+- ⚽ Me gusta jugar vóley y fútbol como actividades recreativas.  
+- 🎶 Disfruto escuchar música para mantenerme inspirada.  
+
+---
+
+### 📬 Contáctame
+- ✉️ [Correo](mcasasc21@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcia-casas-48aa73215/)  
+- 🌐 [GitHub](https://github.com/Mcasasc)  
+
+---
+
+✨ *"Con los datos construimos conocimiento, y con el conocimiento generamos valor."
