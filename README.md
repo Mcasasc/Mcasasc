@@ -40,4 +40,4 @@
 
 ---
 
-✨ *"Con los datos construimos conocimiento, y con el conocimiento generamos valor."
+✨ **"Con los datos construimos conocimiento, y con el conocimiento generamos valor."**
