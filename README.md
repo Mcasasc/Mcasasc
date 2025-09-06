@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">👋 Hola, soy Marcia Casas</h1>
 
 <h3 align="center">📊 Analista de Datos en formación | 🎓 Estudiante de Ingeniería de Sistemas</h3>
