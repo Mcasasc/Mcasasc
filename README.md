@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Python, TypeScript  
+- **Lenguajes:** [Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)  
 - **Bases de datos:** MySQL, SQL Server  
 - **Análisis de datos:** Excel, Power BI, SQL  
 - **Procesos de datos:** ETL, limpieza y transformación de datos  
