@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/2b3d8e00-21fe-4e61-b328-08403907bb12" />)
 <h1 align="center">👋 Hola, soy Marcia Casas</h1>
 
 <h3 align="center">📊 Analista de Datos en formación | 🎓 Estudiante de Ingeniería de Sistemas</h3>
