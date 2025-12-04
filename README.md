@@ -32,7 +32,7 @@
 ---
 
 ### 📬 Contáctame
-- ✉️ [Correo](mcasasc21@gmail.com)  
+- ✉️ [Correo](mailto:mcasasc21@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcia-casas-48aa73215/)  
 - 🌐 [GitHub](https://github.com/Mcasasc)  
 
